@@ -1,0 +1,3 @@
+# Ignore raw data and envs
+business_report_raw.csv
+env/
